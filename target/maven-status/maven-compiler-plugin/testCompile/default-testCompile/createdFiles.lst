@@ -1,0 +1,8 @@
+pages\BasePage.class
+pages\PlayoffsMachinePage.class
+pages\StandingPage.class
+steps\NavigationSteps.class
+pages\HomePage.class
+pages\NavigationBarComponent.class
+steps\BaseSteps.class
+steps\TestRunner.class
